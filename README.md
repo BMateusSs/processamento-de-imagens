@@ -18,8 +18,8 @@ pip install opencv-python numpy matplotlib pandas notebook
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone <https://github.com/BMateusSs/processamento-de-imagens.git>
+cd <processamento-de-imagens>
 ```
 
 2. Inicie o Jupyter Notebook:
